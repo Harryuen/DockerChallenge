@@ -6,7 +6,7 @@ Challenge 3 – Full-stack application
 
 Steps
 
-•![alt text](image.png)
+![image](https://github.com/user-attachments/assets/dd88c70b-99a3-4e05-a059-bccb20d9b7d2)
 
 Extract the files present on challenge3.zipto the challenge’s root folder.
 
